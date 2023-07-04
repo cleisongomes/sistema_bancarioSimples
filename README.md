@@ -1,5 +1,6 @@
 # sistema_bancarioSimples
-Estrutura do Sistema Bancário do Dio.
+# Estrutura do Sistema Bancário do Dio.
+
 menu = """
 
 [d] Depositar
